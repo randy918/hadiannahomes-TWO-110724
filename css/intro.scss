@@ -7,10 +7,36 @@
     // margin-top: 8vw;
     margin-left: 10vw;
     margin-right: 10vw;
-    margin-bottom: 2vw;
+    margin-bottom: 0vw;
     width: 79vw;
 
 };
+
+.flex__container--intro  {
+
+display: flex;
+
+}     
+
+.flex__container--social  {
+
+display: flex;
+
+}    
+
+.social__instagram {
+position: absolute;
+width: 6vw;
+top: 7vw;
+right: 20vw;
+}
+
+.social__tiktok {
+position: absolute;
+width: 6vw;
+top: 7vw;
+right: 12vw;
+}
 
 .h7 {
     font-size: 2vw;
@@ -30,7 +56,7 @@
     // margin-top: 8vw;
     margin-left: 10vw;
     margin-right: 10vw;
-    margin-bottom: 2vw;
+    margin-bottom: 0vw;
     width: 100vw;
 }
 }
